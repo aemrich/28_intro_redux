@@ -4,7 +4,8 @@
   + To do this, you should dispatch a different action whenever the button is clicked.
 
 2. Create a new component to represent a note list. This component should render out a list of notes from the noteStore.
-3. Add an form with an input for note. When the form is submitted, we should add that note into the state and re-render our NoteList component. 
+
+3. Add an form with an input for note. When the form is submitted, we should add that note into the state and re-render our NoteList component.
 
 
 
